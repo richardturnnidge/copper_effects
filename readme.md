@@ -1,11 +1,5 @@
-### Example of Graphic Primitives
+### Example of Copper Effects
 
-Displays:
-1) points
-2) lines
-3) rectangles
-4) circles
-5) triangles
-6) parallellograms
+Chanes palette on various lines every second
 
 Press ESC to exit the program.
